@@ -1,9 +1,9 @@
 .odd-numbered {
     background-color: #E8A4AA;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.odd-numbered.cool {
+.cool {
     font-size: 24px;
 }
 
